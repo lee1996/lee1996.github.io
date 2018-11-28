@@ -10,4 +10,5 @@ catalog: true
 >My First Blog
 
 # 新的一天
-人生就是一段旅行，且走起停
+人生就是一段旅行，且停且走
+![avatar](https://ws3.sinaimg.cn/large/006tNbRwly1fxnhhz1sjyj31440u0aqw.jpg)
